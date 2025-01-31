@@ -1,1 +1,0 @@
-# UAS-Pengolahan-Citra-Digital
